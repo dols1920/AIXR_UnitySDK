@@ -95,6 +95,6 @@ Special thanks to the Unity XR team and the OpenXR community for their excellent
 
 ---
 
-**Download**: [AIXR Unity SDK v1.0.0](https://github.com/dols1920/AIXR_UnitySDK/releases/tag/v1.0.0)
+**Installation**: See [Installation](#installation) section above or visit the [GitHub repository](https://github.com/dols1920/AIXR_UnitySDK)
 
 **Full Changelog**: [CHANGELOG.md](CHANGELOG.md)
