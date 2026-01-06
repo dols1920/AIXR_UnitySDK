@@ -1,0 +1,32 @@
+{
+  "name": "com.aixr.unitysdk",
+  "version": "1.0.0",
+  "displayName": "AIXR Unity SDK",
+  "description": "AIXR Unity SDK provides seamless integration with AIXR Agent (Pimax OpenXR Runtime). Features automatic OpenXR configuration, runtime detection, and VR development tools for Unity.",
+  "unity": "2022.3",
+  "keywords": [
+    "openxr",
+    "vr",
+    "xr",
+    "pimax",
+    "aixr",
+    "virtual reality",
+    "xr interaction",
+    "openxr runtime"
+  ],
+  "author": {
+    "name": "AIXR",
+    "url": "https://github.com/dols1920/AIXR_UnitySDK"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dols1920/AIXR_UnitySDK.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.xr.management": "4.5.4",
+    "com.unity.xr.openxr": "1.16.1",
+    "com.unity.xr.interaction.toolkit": "3.3.1"
+  },
+  "samples": []
+}
